@@ -34,6 +34,6 @@ class courses {
 
            string  toString()
             return course +"|"+ title +"|" + units + units 
-            public class studentcoursemanagement course
+            public class studentcoursemanagement
             
         
