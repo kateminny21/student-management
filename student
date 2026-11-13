@@ -1,0 +1,39 @@
+class courses {
+    string code:
+    string title:
+    int units:
+      
+    course(string code,string title,int units) {
+        this.code=code;
+        this.title=title;
+    }
+
+    @override 
+    public string toString() {
+          return code +"|" + title +"|"+units +units
+    }
+}
+       public class studentcoursemanagement 
+         
+       static scanner input=new scanner(system,in);
+       static arraylist <course> courses = 
+
+       //DISPLAYS the menu recursively 
+       static void show menu () {
+        System.out.println("\n====STUDENT COURSE MANAGEMENT"):
+        System.out.println("add course")
+        system.out.println("view course")
+        system.out.println("search course by code")
+       }
+
+           System.out.println ( "compute total unit ")
+           system.out.println("save to file")
+           system.out.println("load from file")
+           system.out.println("Exit program")
+           system.out.println("choose an option")
+
+           string  toString()
+            return course +"|"+ title +"|" + units + units 
+            public class studentcoursemanagement
+            
+        
